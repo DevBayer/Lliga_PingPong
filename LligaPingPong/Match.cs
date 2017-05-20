@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LligaPingPong
 {
-    class Match
+    public class Match
     {
         public Player player1 { get; set; }
         public Player player2 { get; set; }

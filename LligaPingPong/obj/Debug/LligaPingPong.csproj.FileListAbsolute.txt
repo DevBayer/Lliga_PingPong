@@ -38,7 +38,6 @@ C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Rea
 C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Interfaces.xml
 C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Linq.xml
 C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.PlatformServices.xml
-C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.csprojResolveAssemblyReference.cache
 C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.Form1.resources
 C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormEditPlayer.resources
 C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormAddPlayer.resources

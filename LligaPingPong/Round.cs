@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LligaPingPong
 {
-    class Round
+    public class Round
     {
         [JsonIgnore]
         public string key;

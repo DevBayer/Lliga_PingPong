@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LligaPingPong
 {
-    class LeagueManager
+    public class LeagueManager
     {
         public List<Round> generateMatches(List<Player> players)
         {
@@ -29,11 +29,8 @@ namespace LligaPingPong
             {
                 Round round = new Round();
                 round.day = day + 1;
-                Console.WriteLine("Day {0}", (day + 1));
 
                 int teamIdx = day % teamsSize;
-
-                Console.WriteLine("{0} vs {1}", teams[teamIdx], players[0]);
                 Match m1 = new Match(teams[teamIdx], players[0]);
                 round.matches.Add(m1);
 
@@ -41,7 +38,6 @@ namespace LligaPingPong
                 {
                     int firstTeam = (day + idx) % teamsSize;
                     int secondTeam = (day + teamsSize - idx) % teamsSize;
-                    Console.WriteLine("{0} vs {1}", teams[firstTeam], teams[secondTeam]);
                     Match m2 = new Match(teams[firstTeam], teams[secondTeam]);
                     round.matches.Add(m2);
                 }
