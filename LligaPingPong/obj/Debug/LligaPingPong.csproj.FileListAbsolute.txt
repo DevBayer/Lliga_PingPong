@@ -1,0 +1,52 @@
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\LligaPingPong.exe.config
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\LligaPingPong.exe
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\LligaPingPong.pdb
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.csprojResolveAssemblyReference.cache
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.Form1.resources
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.Properties.Resources.resources
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.csproj.GenerateResource.Cache
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.exe
+c:\users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.pdb
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.FormLigue.resources
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\Firebase.Database.dll
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\Newtonsoft.Json.dll
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.Core.dll
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.Linq.dll
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\Newtonsoft.Json.xml
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.Core.xml
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.Linq.xml
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.FormLigueDetails.resources
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.FormAddPlayer.resources
+C:\Users\23878410v\documents\visual studio 2015\Projects\LligaPingPong\LligaPingPong\bin\Debug\Firebase.Storage.dll
+C:\Users\23878410v\Documents\Visual Studio 2015\Projects\LligaPingPong\LligaPingPong\obj\Debug\LligaPingPong.FormEditPlayer.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\LligaPingPong.exe.config
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\LligaPingPong.exe
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\LligaPingPong.pdb
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\Firebase.Database.dll
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\Firebase.Storage.dll
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Core.dll
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Core.xml
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.csprojResolveAssemblyReference.cache
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.Form1.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormEditPlayer.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormAddPlayer.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormLigue.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormLigueDetails.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.Properties.Resources.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.csproj.GenerateResource.Cache
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.exe
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.pdb
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormSearchPlayer.resources
+C:\Users\Bayer\Documents\LligaPingPong-master\LligaPingPong\obj\Debug\LligaPingPong.FormEditMatch.resources
